@@ -1,0 +1,124 @@
+
+
+.flexable{
+    display:flex;
+    margin-bottom:20px;
+    
+}
+div img{
+    width: 80%;
+   position:relative;
+   right:-80px
+   
+   
+}
+.first-box{
+        
+        z-index: 1;
+        position:relative;
+        left: 60px;
+        top:60px;
+}
+.first-box h1{
+    font-size:50px;
+}
+.first-box p{
+    margin-bottom: 40px;
+}
+
+#orange-color{
+    color: orange;
+}
+.order{
+    color:white;
+    text-decoration: none;
+    margin-top:30px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:10px ;
+    padding-bottom:10px;
+    background-image: linear-gradient(rgba(255, 55, 0, 0.848),tomato);
+}
+.background-about{
+    display: flex;
+    background-image:url(images/shapes/7.png);
+    background-size: cover;
+ width:100%;
+ height: 100%;
+    background-repeat:no-repeat;
+    padding-bottom:    px;
+    
+}
+.female{
+    
+}
+.about-me{
+    
+    position: relative;
+   
+    bottom:-10px;
+  padding: 80px;
+}
+.about-me p{
+    margin-right:90px;
+   font-size: 20px;
+    padding-right:80px;
+}
+
+.center-receipes{
+    left:50%;
+    right:50%;
+    text-align: center;
+    
+}    
+.center-receipes p{
+    margin-left:20%;
+    margin-right:20%;
+   padding-left: 100px;
+   paddign-right:100px;
+}
+.receipes{
+    display: flex;
+}
+.receipes-box{
+    box-shadow:5px rgb(236, 205, 243);
+    background-image: linear-gradient(burlywood);
+    background-size:cover;
+    border: 10px solid whitesmoke;
+    
+    
+}
+
+.make-right{
+    position:relative;
+    left:30px;
+    padding-right: 30px;
+    padding-left:50px;
+  }
+
+.media-box{
+    border: 10px solid white;
+    box-shadow: 10px 10px 8px #888888;;
+    display:flex;
+    background-image: linear-gradient(lightpink lightgray);
+    background-size: cover;
+    margin:80px;
+    padding:5px;
+}
+.media-box div{
+    margin-right:90px;
+    margin-left:80px;
+    margin-top:80px;
+    bottom: 10px;
+}
+footer{
+    background-color: gold;
+    
+}
+.footer-all{
+    position:relative;
+    padding-left:30%;
+    paddint-top:20px;
+    
+}
